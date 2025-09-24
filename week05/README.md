@@ -5,7 +5,33 @@ We will connect simple backends (Ollama or GPT API) with three frontends: **Grad
 
 ---
 
-## Prerequisites
+## 1. Environment Setup
+
+Before starting, please make sure you have Python 3.9+ installed on your computer.
+You can check your Python version by running:
+
+```bash
+python --version
+```
+
+or (depending on your system):
+
+```bash
+python3 --version
+```
+
+If Python is not installed, download it from the official website
+ or use Anaconda (recommended for Windows/Mac users).
+
+Next, install the required packages for this tutorial:
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install all dependencies (e.g., FastAPI, Gradio, Streamlit, etc.) needed to run the backend and frontend notebooks.
+
+## 2. Prerequisites
 
 You will need to install **Jupyter Notebook** to run the tutorial notebooks.
 
@@ -27,8 +53,9 @@ jupyter notebook
 ```
 
 
+## 3. Running the Tutorial
 
-### 1. Backend (choose one)
+### 3.1 Backend (choose one)
 
 - **GPT API backend**
   - Requiremnents:
@@ -60,16 +87,23 @@ Both backends start a FastAPI server, but they run on different ports:
 - Ollama Backend: http://localhost:8000/chat
 - GPT API Backend: http://localhost:8001/chat
 
-You can select which backend to connect to by editing `frontend/config.py`.  
-For example:
+For gradio and streamlit examples, you can select which backend to connect to by editing `frontend/config.py`.  
+  - For example:
 
-```
-BACKEND_URL = "http://localhost:8001/chat"
-```
+    ```python
+    BACKEND_URL = "http://localhost:8001/chat"
+    ```
+
+However, for the react example, you need to manually update the port:
+  - In `App.tsx`, update the line  
+    ```ts
+    const BACKEND_URL = "http://localhost:8001/chat";
+    ```
+    to match the backend you are running (8000 for Ollama, 8001 for GPT API).
 
 ---
 
-### 2. Gradio frontend
+### 3.2 Gradio frontend
 - Open `frontend/1-gradio/frontend_gradio.ipynb` in Jupyter Notebook.
 - This will launch a Gradio app (default at `http://localhost:7860`).
 
@@ -84,7 +118,7 @@ BACKEND_URL = "http://localhost:8001/chat"
     - Add parameter controls (temperature, max_tokens) in a sidebar.
 
 
-### 3. Streamlit frontend
+### 3.3 Streamlit frontend
 
 - **(Recommended)** Run Streamlit apps from the **command line** (not inside Jupyter):
   ```bash
@@ -120,7 +154,7 @@ Use it only when experimenting quickly.
     - Conversation analytics (counts, charts).
 
 ---
-### 4. React frontend
+### 3.4 React frontend
 
 - We only provide `App.tsx`.
 - You can create your own React + TypeScript project (e.g., with Vite):

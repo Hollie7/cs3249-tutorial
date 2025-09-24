@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./App.css";
 
 interface Message {
   role: "user" | "assistant";
@@ -43,36 +44,23 @@ function App() {
   };
 
   return (
-    <div
-      style={{
-        maxWidth: "600px",
-        margin: "2rem auto",
-        fontFamily: "sans-serif",
-      }}
-    >
-      <h2>💬 CS3249 Minimal CUI (React + TS)</h2>
+    <div className="chat-container">
+      <h2 className="chat-title">💬 CS3249 Minimal CUI</h2>
 
-      <div
-        style={{
-          border: "1px solid #ccc",
-          padding: "1rem",
-          borderRadius: "8px",
-          height: "400px",
-          overflowY: "auto",
-        }}
-      >
+      <div className="chat-window">
         {messages.map((msg, idx) => (
-          <div key={idx} style={{ marginBottom: "0.5rem" }}>
-            <strong>{msg.role === "user" ? "You" : "Bot"}:</strong>{" "}
+          <div
+            key={idx}
+            className={`chat-bubble ${msg.role === "user" ? "user" : "bot"}`}
+          >
             {msg.content}
           </div>
         ))}
       </div>
 
-      <div style={{ marginTop: "1rem", display: "flex" }}>
+      <div className="chat-input">
         <textarea
           rows={2}
-          style={{ flex: 1, marginRight: "0.5rem" }}
           value={input}
           onChange={(e) => setInput(e.target.value)}
           onKeyDown={handleKeyDown}
