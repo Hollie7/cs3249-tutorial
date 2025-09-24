@@ -2,9 +2,10 @@ import os
 import uuid
 import streamlit as st
 import matplotlib.pyplot as plt   # for analytics (students will use)
+import sys, os 
+sys.path.append(os.path.abspath("..")) # add parent folder (week05/frontend) 
+from config import BACKEND_URL
 
-# =============== Config ===============
-DEFAULT_BACKEND_URL = os.getenv("CS3249_BACKEND_URL", "http://localhost:8001/chat")
 
 st.set_page_config(page_title="CS3249 — Sessions & Viz (Student)", page_icon="💬", layout="wide")
 st.title("💬 CS3249 — Streamlit (Sessions + Visualization) — STUDENT VERSION")
@@ -12,7 +13,7 @@ st.title("💬 CS3249 — Streamlit (Sessions + Visualization) — STUDENT VERSI
 # =============== Sidebar ===============
 with st.sidebar:
     st.markdown("### Backend Settings")
-    backend_url = st.text_input("Backend URL", value=DEFAULT_BACKEND_URL)
+    backend_url = st.text_input("Backend URL", value=BACKEND_URL)
 
     st.markdown("### Generation Params")
     temperature = st.slider("Temperature", 0.0, 1.0, 0.7, 0.1)

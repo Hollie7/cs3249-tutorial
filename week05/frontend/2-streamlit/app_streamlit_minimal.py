@@ -1,7 +1,8 @@
 import requests
 import streamlit as st
-
-BACKEND_URL = "http://localhost:8001/chat"  # adjust if backend runs elsewhere
+import sys, os 
+sys.path.append(os.path.abspath("..")) # add parent folder (week05/frontend) 
+from config import BACKEND_URL
 
 st.set_page_config(page_title="CS3249 Minimal CUI", page_icon="💬")
 st.title("💬 CS3249 — Minimal CUI (Streamlit)")

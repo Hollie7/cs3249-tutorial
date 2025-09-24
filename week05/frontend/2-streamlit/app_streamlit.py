@@ -2,6 +2,9 @@ import os
 import uuid
 import requests
 import streamlit as st
+import sys, os 
+sys.path.append(os.path.abspath("..")) # add parent folder (week05/frontend) 
+from config import BACKEND_URL
 
 # ---------- Page setup ----------
 st.set_page_config(page_title="CS3249 CUI (Streamlit)", page_icon="💬", layout="centered")
@@ -10,8 +13,7 @@ st.title("💬 CS3249 — Minimal CUI (Streamlit)")
 # ---------- Sidebar controls ----------
 with st.sidebar:
     st.markdown("### Backend Settings")
-    backend_default = os.getenv("CS3249_BACKEND_URL", "http://localhost:8001/chat")
-    BACKEND_URL = st.text_input("Backend URL", value=backend_default, help="POST endpoint for /chat")
+    BACKEND_URL = st.text_input("Backend URL", value=BACKEND_URL, help="POST endpoint for /chat")
 
     st.markdown("### Generation Params")
     temperature = st.slider("Temperature", 0.0, 1.0, 0.7, 0.1)
