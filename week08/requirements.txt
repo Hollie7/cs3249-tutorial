@@ -1,0 +1,7 @@
+openai>=1.40.0
+langchain>=0.2.5
+langchain-openai>=0.1.7
+chromadb>=0.5.3
+gradio>=4.44.0
+python-dotenv>=1.0.1
+langchain_community

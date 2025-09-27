@@ -1,0 +1,4 @@
+Course: CS3249 Conversational User Interfaces
+Assignment 1 deadline: 30 September 2025
+Tutorials are held weekly on Wednesday and Friday.
+The final project involves building a multi-agent conversational system.
