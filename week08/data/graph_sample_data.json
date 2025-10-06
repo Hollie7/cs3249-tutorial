@@ -1,0 +1,4122 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "Author",
+      "id": "Yi-Chieh (EJ) Lee"
+    },
+    {
+      "type": "Paper",
+      "id": "\"I Hear You, I Feel You\": Encouraging Deep Self-disclosure through a Chatbot"
+    },
+    {
+      "type": "Paper",
+      "id": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being"
+    },
+    {
+      "type": "Paper",
+      "id": "Designing a Chatbot as a Mediator for Promoting Deep Self-Disclosure to a Real Mental Health Professional"
+    },
+    {
+      "type": "Paper",
+      "id": "Development of an EOG-based automatic sleep-monitoring eye mask"
+    },
+    {
+      "type": "Paper",
+      "id": "Using time-anchored peer comments to enhance social interaction in online educational videos"
+    },
+    {
+      "type": "Paper",
+      "id": "\" I love the feeling of being on stage, but I become greedy\" Exploring the impact of monetary incentives on live streamers' social interactions and streaming content"
+    },
+    {
+      "type": "Paper",
+      "id": "Understanding how digital gifting influences social interaction on live streams"
+    },
+    {
+      "type": "Paper",
+      "id": "Design and Evaluation Challenges of Conversational Agents in Health Care and Well-being: Selective Review Study"
+    },
+    {
+      "type": "Paper",
+      "id": "Exploration of User\u2019s Mental State Changes during Performing Brain\u2013Computer Interface"
+    },
+    {
+      "type": "Paper",
+      "id": "Exploring the Effects of Incorporating Human Experts to Deliver Journaling Guidance through a Chatbot"
+    },
+    {
+      "type": "Paper",
+      "id": "Understanding Public Perceptions of AI Conversational Agents: A Cross-Cultural Analysis"
+    },
+    {
+      "type": "Paper",
+      "id": "A visual attention monitor based on steady-state visual evoked potential"
+    },
+    {
+      "type": "Paper",
+      "id": "Exploring Effects of Chatbot-based Social Contact on Reducing Mental Illness Stigma"
+    },
+    {
+      "type": "Paper",
+      "id": "Tip me! Tipping is changing social interactions on live streams in China"
+    },
+    {
+      "type": "Paper",
+      "id": "The dark side of ai companionship: A taxonomy of harmful algorithmic behaviors in human-ai relationships"
+    },
+    {
+      "type": "Paper",
+      "id": "\" We gather together we collaborate together\": Exploring the challenges and strategies of Chinese lesbian and bisexual women's online communities on Weibo"
+    },
+    {
+      "type": "Paper",
+      "id": "Assessing Users\u2019 Mental Status from their Journaling Behavior through Chatbots"
+    },
+    {
+      "type": "Paper",
+      "id": "\u201cSo Close, yet so Far\u201d: Exploring Sexual-Minority Women\u2019s Relationship Building via Online Dating in China."
+    },
+    {
+      "type": "Paper",
+      "id": "Improving donation distribution for crowdfunding: An agent-based model"
+    },
+    {
+      "type": "Paper",
+      "id": "An EEG-based approach for evaluating audio notifications under ambient sounds"
+    },
+    {
+      "type": "Author",
+      "id": "Naomi Yamashita"
+    },
+    {
+      "type": "Author",
+      "id": "Renwen Zhang"
+    },
+    {
+      "type": "Author",
+      "id": "Wen-Chieh Lin"
+    },
+    {
+      "type": "Author",
+      "id": "Yun Huang"
+    },
+    {
+      "type": "Author",
+      "id": "Han Li"
+    },
+    {
+      "type": "Author",
+      "id": "Li-Wei Ko"
+    },
+    {
+      "type": "Author",
+      "id": "Yichao Cui"
+    },
+    {
+      "type": "Author",
+      "id": "Zicheng Zhu"
+    },
+    {
+      "type": "Author",
+      "id": "Hao-Chuan Wang"
+    },
+    {
+      "type": "Author",
+      "id": "David C. Mohr"
+    },
+    {
+      "type": "Author",
+      "id": "Robert E. Kraut"
+    },
+    {
+      "type": "Author",
+      "id": "Jung-Tai King"
+    },
+    {
+      "type": "Author",
+      "id": "Dennis Wang"
+    },
+    {
+      "type": "Author",
+      "id": "Jack Jamieson"
+    },
+    {
+      "type": "Author",
+      "id": "Liwei Chan"
+    },
+    {
+      "type": "Paper",
+      "id": "\" I hear you, I feel you\": encouraging deep self-disclosure through a chatbot"
+    },
+    {
+      "type": "Paper",
+      "id": "Designing a chatbot as a mediator for promoting deep self-disclosure to a real mental health professional"
+    },
+    {
+      "type": "Paper",
+      "id": "Effects of machine translation on collaborative work"
+    },
+    {
+      "type": "Paper",
+      "id": "Difficulties in establishing common ground in multiparty groups using machine translation"
+    },
+    {
+      "type": "Paper",
+      "id": "Changing moods: How manual tracking by family caregivers improves caring and family communication"
+    },
+    {
+      "type": "Paper",
+      "id": "Understanding the conflicting demands of family caregivers caring for depressed family members"
+    },
+    {
+      "type": "Paper",
+      "id": "Improving visibility of remote gestures in distributed tabletop collaboration"
+    },
+    {
+      "type": "Paper",
+      "id": "Open Source Software Development with Your Mother Language: Intercultural Collaboration Experiment 2002."
+    },
+    {
+      "type": "Paper",
+      "id": "Showing objects: Holding and manipulating artefacts in video-mediated collaborative settings"
+    },
+    {
+      "type": "Paper",
+      "id": "Embedded interaction: The accomplishment of actions in everyday and video-mediated environments"
+    },
+    {
+      "type": "Paper",
+      "id": "How Information Sharing about Care Recipients by Family Caregivers Impacts Family Communication"
+    },
+    {
+      "type": "Paper",
+      "id": "Embedded reference: Translocating gestures in video-mediated interaction"
+    },
+    {
+      "type": "Paper",
+      "id": "Vroom: virtual robot overlay for online meetings"
+    },
+    {
+      "type": "Paper",
+      "id": "Automatic prediction of misconceptions in multilingual computer-mediated communication"
+    },
+    {
+      "type": "Paper",
+      "id": "Impact of seating positions on group video communication"
+    },
+    {
+      "type": "Paper",
+      "id": "Effects of public vs. private automated transcripts on multiparty communication between native and non-native English speakers"
+    },
+    {
+      "type": "Paper",
+      "id": "Culturally-situated pictogram retrieval"
+    },
+    {
+      "type": "Paper",
+      "id": "Exploring the effects of incorporating human experts to deliver journaling guidance through a chatbot"
+    },
+    {
+      "type": "Paper",
+      "id": "Lost in transmittance: how transmission lag enhances and deteriorates multilingual collaboration"
+    },
+    {
+      "type": "Paper",
+      "id": "Improving multilingual collaboration by displaying how non-native speakers use automated transcripts and bilingual dictionaries"
+    },
+    {
+      "type": "Author",
+      "id": "Hideaki Kuzuoka"
+    },
+    {
+      "type": "Author",
+      "id": "Toru Ishida"
+    },
+    {
+      "type": "Author",
+      "id": "Paul Luff"
+    },
+    {
+      "type": "Author",
+      "id": "Christian Heath"
+    },
+    {
+      "type": "Author",
+      "id": "Ge Gao"
+    },
+    {
+      "type": "Author",
+      "id": "Katsuhiko Kaji"
+    },
+    {
+      "type": "Author",
+      "id": "Susan Fussell"
+    },
+    {
+      "type": "Author",
+      "id": "keiji hirata"
+    },
+    {
+      "type": "Author",
+      "id": "Rieko Inaba"
+    },
+    {
+      "type": "Author",
+      "id": "Andy Echenique"
+    },
+    {
+      "type": "Author",
+      "id": "Toshihiro Takada"
+    },
+    {
+      "type": "Author",
+      "id": "Hideki Koike"
+    },
+    {
+      "type": "Author",
+      "id": "ZhengQing Li"
+    },
+    {
+      "type": "Author",
+      "id": "Eiji ARAMAKI / \u8352\u7267\u82f1\u6cbb"
+    },
+    {
+      "type": "Author",
+      "id": "Saeko Nomura (Baird)"
+    },
+    {
+      "type": "Author",
+      "id": "Marina Jirotka"
+    },
+    {
+      "type": "Paper",
+      "id": "The stress-buffering effect of self-disclosure on Facebook: An examination of stressful life events, social support, and mental health among college students"
+    },
+    {
+      "type": "Paper",
+      "id": "An agenda for open science in communication"
+    },
+    {
+      "type": "Paper",
+      "id": "Mapping ICT use at home and telecommuting practices: A perspective from work/family border theory"
+    },
+    {
+      "type": "Paper",
+      "id": "Passive social media use and psychological well-being during the COVID-19 pandemic: The role of social comparison and emotion regulation"
+    },
+    {
+      "type": "Paper",
+      "id": "Provider perspectives on the integration of patient-reported outcomes in an electronic health record"
+    },
+    {
+      "type": "Paper",
+      "id": "Designing mental health technologies that support the social ecosystem of college students"
+    },
+    {
+      "type": "Paper",
+      "id": "Clinically meaningful use of mental health apps and its effects on depression: mixed methods study"
+    },
+    {
+      "type": "Paper",
+      "id": "Predicting tablet use: A study of gratifications-sought, leisure boredom, and multitasking"
+    },
+    {
+      "type": "Paper",
+      "id": "Privacy management and self-disclosure on social network sites: The moderating effects of stress and gender"
+    },
+    {
+      "type": "Paper",
+      "id": "Online support groups for depression in China: Culturally shaped interactions and motivations"
+    },
+    {
+      "type": "Paper",
+      "id": "Designing for Emotional Well-Being: Integrating Persuasion and Customization into Mental Health Technologies"
+    },
+    {
+      "type": "Paper",
+      "id": "\"Energy is a finite resource\": designing technology to support individuals across fluctuating symptoms of depression"
+    },
+    {
+      "type": "Paper",
+      "id": "Distress disclosure across social media platforms during the COVID-19 pandemic: Untangling the effects of platforms, affordances, and audiences"
+    },
+    {
+      "type": "Paper",
+      "id": "Finding love in algorithms: deciphering the emotional contexts of close encounters with AI chatbots"
+    },
+    {
+      "type": "Paper",
+      "id": "Predictors of student engagement and perceived learning in emergency online education amidst COVID-19: A community of inquiry perspective"
+    },
+    {
+      "type": "Paper",
+      "id": "Social media use, psychological well-being and physical health during lockdown"
+    },
+    {
+      "type": "Paper",
+      "id": "Identifying practice facilitation delays and barriers in primary care quality improvement"
+    },
+    {
+      "type": "Paper",
+      "id": "Social media use, perceived social support, and well-being: Evidence from two waves of surveys peri-and post-COVID-19 lockdown"
+    },
+    {
+      "type": "Paper",
+      "id": "Are older adults networked individuals? Insights from East Yorkers\u2019 network structure, relational autonomy, and digital media use"
+    },
+    {
+      "type": "Author",
+      "id": "Madhu Reddy"
+    },
+    {
+      "type": "Author",
+      "id": "Louis Leung"
+    },
+    {
+      "type": "Author",
+      "id": "Zhiying (Zoey) Yue, Ph.D."
+    },
+    {
+      "type": "Author",
+      "id": "Kathryn E. Ringland"
+    },
+    {
+      "type": "Author",
+      "id": "Rachel Kornfield"
+    },
+    {
+      "type": "Author",
+      "id": "J. Sophia Fu"
+    },
+    {
+      "type": "Author",
+      "id": "Hua Wang"
+    },
+    {
+      "type": "Author",
+      "id": "Jennifer Nicholas"
+    },
+    {
+      "type": "Author",
+      "id": "Han Meng"
+    },
+    {
+      "type": "Author",
+      "id": "Stephen Schueller"
+    },
+    {
+      "type": "Author",
+      "id": "Anabel Quan-Haase"
+    },
+    {
+      "type": "Author",
+      "id": "Eleanor R Burgess"
+    },
+    {
+      "type": "Author",
+      "id": "Justin Starren"
+    },
+    {
+      "type": "Author",
+      "id": "Afonso Anfan Chen"
+    },
+    {
+      "type": "Author",
+      "id": "Zihan Liu"
+    },
+    {
+      "type": "Paper",
+      "id": "Near-regular texture analysis and manipulation"
+    },
+    {
+      "type": "Paper",
+      "id": "Real-time physics-based 3d biped character animation using an inverted pendulum model"
+    },
+    {
+      "type": "Paper",
+      "id": "The promise and perils of near-regular texture"
+    },
+    {
+      "type": "Paper",
+      "id": "Deep sparse representation classifier for facial recognition and detection system"
+    },
+    {
+      "type": "Paper",
+      "id": "A lattice-based MRF model for dynamic near-regular texture tracking"
+    },
+    {
+      "type": "Paper",
+      "id": "Robust feature-based automated multi-view human action recognition system"
+    },
+    {
+      "type": "Paper",
+      "id": "Quantitative evaluation of near regular texture synthesis algorithms"
+    },
+    {
+      "type": "Paper",
+      "id": "A normal distribution transform-based radar odometry designed for scanning and automotive radars"
+    },
+    {
+      "type": "Paper",
+      "id": "A gesture system for graph visualization in virtual reality environments"
+    },
+    {
+      "type": "Paper",
+      "id": "A comparison study of four texture synthesis algorithms on near-regular textures"
+    },
+    {
+      "type": "Paper",
+      "id": "How the presence and size of static peripheral blur affects cybersickness in virtual reality"
+    },
+    {
+      "type": "Paper",
+      "id": "Tracking dynamic near-regular texture under occlusion and rapid movements"
+    },
+    {
+      "type": "Paper",
+      "id": "Conceptguide: Supporting online video learning with concept map-based recommendation of learning path"
+    },
+    {
+      "type": "Paper",
+      "id": "Exploration of user\u2019s mental state changes during performing brain\u2013computer interface"
+    },
+    {
+      "type": "Paper",
+      "id": "Radial view based culling for continuous self-collision detection of skeletal models"
+    },
+    {
+      "type": "Paper",
+      "id": "Stylized rendering using samples of a painted image"
+    },
+    {
+      "type": "Paper",
+      "id": "Design and initial evaluation of a VR based immersive and interactive architectural design discussion system"
+    },
+    {
+      "type": "Author",
+      "id": "yanxi liu \u5289\u71d5\u897f"
+    },
+    {
+      "type": "Author",
+      "id": "Chin-Teng Lin"
+    },
+    {
+      "type": "Author",
+      "id": "James Hays"
+    },
+    {
+      "type": "Author",
+      "id": "Sai-Keung Wong"
+    },
+    {
+      "type": "Author",
+      "id": "Tong-Yee Lee"
+    },
+    {
+      "type": "Author",
+      "id": "Yu-Shuen Wang"
+    },
+    {
+      "type": "Author",
+      "id": "Yu-Ting Tsai"
+    },
+    {
+      "type": "Author",
+      "id": "Jehee Lee"
+    },
+    {
+      "type": "Author",
+      "id": "Vivek Kwatra"
+    },
+    {
+      "type": "Author",
+      "id": "I-Cheng (Garrett) Yeh \u8449\u5955\u6210"
+    },
+    {
+      "type": "Author",
+      "id": "Yanghai Tsin"
+    },
+    {
+      "type": "Author",
+      "id": "Ming-Te Chi"
+    },
+    {
+      "type": "Paper",
+      "id": "\" I Hear You, I Feel You\": Encouraging Deep Self-disclosure through a Chatbot"
+    },
+    {
+      "type": "Paper",
+      "id": "Field trial of tiramisu: crowd-sourcing bus arrival times to spur co-design"
+    },
+    {
+      "type": "Paper",
+      "id": "\" I Felt a Little Crazy Following a'Doll'\" Investigating Real Influence of Virtual Influencers on Their Followers"
+    },
+    {
+      "type": "Paper",
+      "id": "Flying eyes and hidden controllers: A qualitative study of people\u2019s privacy perceptions of civilian drones in the US"
+    },
+    {
+      "type": "Paper",
+      "id": "UX research on conversational human-AI interaction: A literature review of the ACM Digital Library"
+    },
+    {
+      "type": "Paper",
+      "id": "\" I was afraid, but now I enjoy being a streamer!\" Understanding the Challenges and Prospects of Using Live Streaming for Online Education"
+    },
+    {
+      "type": "Paper",
+      "id": "\" It's A Blessing and A Curse\": Unpacking Creators' Practices with Non-Fungible Tokens (NFTs) and Their Communities"
+    },
+    {
+      "type": "Paper",
+      "id": "How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation with an LLM-based Agent"
+    },
+    {
+      "type": "Paper",
+      "id": "Danmaku vs. forum comments: understanding user participation and knowledge sharing in online videos"
+    },
+    {
+      "type": "Paper",
+      "id": "Privacy mechanisms for drones: Perceptions of drone controllers and bystanders"
+    },
+    {
+      "type": "Paper",
+      "id": "\" Our Privacy Needs to be Protected at All Costs\" Crowd Workers' Privacy Experiences on Amazon Mechanical Turk"
+    },
+    {
+      "type": "Paper",
+      "id": "Developing a research agenda for human-centered data science"
+    },
+    {
+      "type": "Paper",
+      "id": "Examining American and Chinese internet users' contextual privacy preferences of behavioral advertising"
+    },
+    {
+      "type": "Paper",
+      "id": "I'm All Eyes and Ears: Exploring Effective Locators for Privacy Awareness in IoT Scenarios"
+    },
+    {
+      "type": "Paper",
+      "id": "Danmaku: A new paradigm of social interaction via online videos"
+    },
+    {
+      "type": "Paper",
+      "id": "Understanding Safety Risks and Safety Design in Social VR Environments"
+    },
+    {
+      "type": "Paper",
+      "id": "Emotion map: A location-based mobile social system for improving emotion awareness and regulation"
+    },
+    {
+      "type": "Paper",
+      "id": "Understanding Danmaku's potential in online video learning"
+    },
+    {
+      "type": "Paper",
+      "id": "An energy-efficient middleware for supporting multimedia services in mobile grid environments"
+    },
+    {
+      "type": "Author",
+      "id": "Yang Wang"
+    },
+    {
+      "type": "Author",
+      "id": "Si Chen"
+    },
+    {
+      "type": "Author",
+      "id": "Qingxiao Zheng"
+    },
+    {
+      "type": "Author",
+      "id": "Aaron Steinfeld"
+    },
+    {
+      "type": "Author",
+      "id": "Yiren Liu"
+    },
+    {
+      "type": "Author",
+      "id": "Anthony Tomasic"
+    },
+    {
+      "type": "Author",
+      "id": "Yiliu Tang"
+    },
+    {
+      "type": "Author",
+      "id": "John Zimmerman"
+    },
+    {
+      "type": "Author",
+      "id": "Nalini Venkatasubramanian"
+    },
+    {
+      "type": "Author",
+      "id": "Daisy Yoo"
+    },
+    {
+      "type": "Author",
+      "id": "Ying Tang"
+    },
+    {
+      "type": "Author",
+      "id": "Shengdong ZHAO"
+    },
+    {
+      "type": "Author",
+      "id": "Hua Shen"
+    },
+    {
+      "type": "Author",
+      "id": "Meng Jiang"
+    },
+    {
+      "type": "Author",
+      "id": "Jinjun Xiong"
+    },
+    {
+      "type": "Author",
+      "id": "Yaman Yu"
+    },
+    {
+      "type": "Paper",
+      "id": "Understanding public perceptions of AI conversational agents: A cross-cultural analysis"
+    },
+    {
+      "type": "Paper",
+      "id": "Mental health during the COVID-19 pandemic: Impacts of disease, social isolation, and financial stressors"
+    },
+    {
+      "type": "Paper",
+      "id": "Technical features of asynchronous and synchronous community platforms and their effects on community cohesion: a comparative study of forum-based and chat-based online mental \u2026"
+    },
+    {
+      "type": "Paper",
+      "id": "AI Privacy in Context: A Comparative Study of Public and Institutional Discourse on Conversational AI Privacy in the US and China"
+    },
+    {
+      "type": "Paper",
+      "id": "\" My Replika Cheated on Me and She Liked It\": A Taxonomy of Algorithmic Harms in Human-AI Relationships"
+    },
+    {
+      "type": "Paper",
+      "id": "Unraveling the Cross-Cultural Differences in Online Expression of Social Anxiety in Online Support Communities"
+    },
+    {
+      "type": "Paper",
+      "id": "\u4e2d\u56fd\u65b0\u95fb\u7f51\u7ad9\u7684\u7f51\u7edc\u4f20\u64ad\u7ed3\u6784\u53ca\u5176\u5f71\u54cd\u529b\u7814\u7a76"
+    },
+    {
+      "type": "Paper",
+      "id": "The role of public art in the communicative practices on university campuses in North America - A case study of public art controversies at an Canadian university"
+    },
+    {
+      "type": "Author",
+      "id": "Haiyi Zhu"
+    },
+    {
+      "type": "Paper",
+      "id": "Wireless and wearable EEG system for evaluating driver vigilance"
+    },
+    {
+      "type": "Paper",
+      "id": "Sustained attention in real classroom settings: An EEG study"
+    },
+    {
+      "type": "Paper",
+      "id": "Development of wireless brain computer interface with embedded multitask scheduling and its application on real-time driver's drowsiness detection and warning"
+    },
+    {
+      "type": "Paper",
+      "id": "An intelligent telecardiology system using a wearable and wireless ECG to detect atrial fibrillation"
+    },
+    {
+      "type": "Paper",
+      "id": "Noninvasive neural prostheses using mobile and wireless EEG"
+    },
+    {
+      "type": "Paper",
+      "id": "Adaptive EEG-based alertness estimation system by using ICA-based fuzzy neural networks"
+    },
+    {
+      "type": "Paper",
+      "id": "Biosensor technologies for augmented brain\u2013computer interfaces in the next decades"
+    },
+    {
+      "type": "Paper",
+      "id": "Generalized EEG-based drowsiness prediction system by using a self-organizing neural fuzzy system"
+    },
+    {
+      "type": "Paper",
+      "id": "EEG-based subject-and session-independent drowsiness detection: an unsupervised approach"
+    },
+    {
+      "type": "Paper",
+      "id": "Review of wireless and wearable electroencephalogram systems and brain-computer interfaces\u2013a mini-review"
+    },
+    {
+      "type": "Paper",
+      "id": "EEG-based assessment of driver cognitive responses in a dynamic virtual-reality driving environment"
+    },
+    {
+      "type": "Paper",
+      "id": "Spatial and temporal EEG dynamics of motion sickness"
+    },
+    {
+      "type": "Paper",
+      "id": "EEG-based learning system for online motion sickness level estimation in a dynamic vehicle environment"
+    },
+    {
+      "type": "Paper",
+      "id": "Spatial and temporal EEG dynamics of dual-task driving performance"
+    },
+    {
+      "type": "Paper",
+      "id": "Extraction of SSVEPs-based inherent fuzzy entropy using a wearable headband EEG in migraine patients"
+    },
+    {
+      "type": "Paper",
+      "id": "A subject-transfer framework for obviating inter-and intra-subject variability in EEG-based drowsiness detection"
+    },
+    {
+      "type": "Paper",
+      "id": "Characterizing media content and effects of organ donation on a social media platform: content analysis"
+    },
+    {
+      "type": "Paper",
+      "id": "Knowledge-based identification of sleep stages based on two forehead electroencephalogram channels"
+    },
+    {
+      "type": "Paper",
+      "id": "An EEG-based perceptual function integration network for application to drowsy driving"
+    },
+    {
+      "type": "Paper",
+      "id": "Using novel MEMS EEG sensors in detecting drowsiness application"
+    },
+    {
+      "type": "Author",
+      "id": "Tzyy-Ping Jung"
+    },
+    {
+      "type": "Author",
+      "id": "Chun-Hsiang (Michael) Chuang"
+    },
+    {
+      "type": "Author",
+      "id": "Rupesh Kumar Chikara"
+    },
+    {
+      "type": "Author",
+      "id": "Chih-Sheng Huang"
+    },
+    {
+      "type": "Author",
+      "id": "Bor-Chen Kuo"
+    },
+    {
+      "type": "Author",
+      "id": "Jin Chern Chiou"
+    },
+    {
+      "type": "Author",
+      "id": "Klaus Gramann"
+    },
+    {
+      "type": "Author",
+      "id": "Yu-Kai Wang"
+    },
+    {
+      "type": "Author",
+      "id": "Shih-Yu Li"
+    },
+    {
+      "type": "Author",
+      "id": "Kuan-Chih Huang"
+    },
+    {
+      "type": "Author",
+      "id": "Chun-Shu Wei"
+    },
+    {
+      "type": "Author",
+      "id": "Chun-Ling Lin (\u6797\u541b\u73b2)"
+    },
+    {
+      "type": "Paper",
+      "id": "Exploring effects of chatbot-based social contact on reducing mental illness stigma"
+    },
+    {
+      "type": "Paper",
+      "id": "\u201cSo close, yet so far\u201d: exploring sexual-minority women\u2019s relationship-building via online dating in china"
+    },
+    {
+      "type": "Paper",
+      "id": "Exploring effects of chatbot's interpretation and self-disclosure on mental illness stigma"
+    },
+    {
+      "type": "Author",
+      "id": "Wayne Fu"
+    },
+    {
+      "type": "Author",
+      "id": "Yu Jen, Lee"
+    },
+    {
+      "type": "Paper",
+      "id": "Examining the Persuasive Effects of Health Communication in Short Videos: Systematic Review"
+    },
+    {
+      "type": "Paper",
+      "id": "Toxicity and prosocial behaviors in massively multiplayer online games: The role of mutual dependence, power, and passion"
+    },
+    {
+      "type": "Paper",
+      "id": "Multi-Agents are Social Groups: Investigating Social Influence of Multiple Agents in Human-Agent Interactions"
+    },
+    {
+      "type": "Paper",
+      "id": "The Benefits of Prosociality towards AI Agents: Examining the Effects of Helping AI Agents on Human Well-Being"
+    },
+    {
+      "type": "Paper",
+      "id": "Developing Intentional Relationships with Technologies: Exploring Players\u2019 Tension between Play and Non-play and Designing Built-in Interventions to Contribute to Digital Well \u2026"
+    },
+    {
+      "type": "Paper",
+      "id": "Developing Intentional Relationships with Technologies: An Exploratory Study of Players\u2019 Experiences with Built-in Interventions in Games"
+    },
+    {
+      "type": "Paper",
+      "id": "AI-Based Speaking Assistant: Supporting Non-Native Speakers' Speaking in Real-Time Multilingual Communication"
+    },
+    {
+      "type": "Paper",
+      "id": "Greater than the Sum of its Parts: Exploring Social Influence of Multi-Agents"
+    },
+    {
+      "type": "Paper",
+      "id": "Mining Evidence about Your Symptoms: Mitigating Availability Bias in Online Self-Diagnosis"
+    },
+    {
+      "type": "Paper",
+      "id": "Exploring the Effects of Chatbot Anthropomorphism and Human Empathy on Human Prosocial Behavior Toward Chatbots"
+    },
+    {
+      "type": "Paper",
+      "id": "Contextual influences and agency to transform context in excessive gaming: A social-ecological perspective"
+    },
+    {
+      "type": "Paper",
+      "id": "Humans Help Conversational AI: Exploring the Impact of Perceived AI Deservingness on People\u2019s Decisions to Help and Their Perceptions on AI Seeking Help"
+    },
+    {
+      "type": "Paper",
+      "id": "AI Literacy Education for Older Adults: Motivations, Challenges and Preferences"
+    },
+    {
+      "type": "Paper",
+      "id": "Understanding Problematic Gaming Through Self-Determined Versus Non-Self-Determined Motivation: Two Mediating Pathways of Harmonious and Obsessive Passion"
+    },
+    {
+      "type": "Paper",
+      "id": "Digital Wellbeing in Gaming: An Examination Through Technological and Social Contextual Lenses"
+    },
+    {
+      "type": "Paper",
+      "id": "Idea expander: supporting group brainstorming with conversationally triggered visual thinking stimuli"
+    },
+    {
+      "type": "Paper",
+      "id": "Assessing creative problem-solving with automated text grading"
+    },
+    {
+      "type": "Paper",
+      "id": "Cultural difference and adaptation of communication styles in computer-mediated group brainstorming"
+    },
+    {
+      "type": "Paper",
+      "id": "From diversity to creativity: Stimulating group brainstorming with cultural differences and conversationally-retrieved pictures"
+    },
+    {
+      "type": "Paper",
+      "id": "ConceptScape: Collaborative concept mapping for video learning"
+    },
+    {
+      "type": "Paper",
+      "id": "An empirical exploration of using wiki in an English as a second language course"
+    },
+    {
+      "type": "Paper",
+      "id": "The comparative efficacy of 2D-versus 3D-based media design for influencing spatial visualization skills"
+    },
+    {
+      "type": "Paper",
+      "id": "Introducing the sustainable prototyping life cycle for digital fabrication to designers"
+    },
+    {
+      "type": "Paper",
+      "id": "Agent-based dynamic support for learning from collaborative brainstorming in scientific inquiry"
+    },
+    {
+      "type": "Paper",
+      "id": "Groups in groups: Conversational similarity in online multicultural multiparty brainstorming"
+    },
+    {
+      "type": "Paper",
+      "id": "How personal experience and technical knowledge affect using conversational agents"
+    },
+    {
+      "type": "Paper",
+      "id": "Same translation but different experience: the effects of highlighting on machine-translated conversations"
+    },
+    {
+      "type": "Paper",
+      "id": "Machine translation vs. common language: Effects on idea exchange in cross-lingual groups"
+    },
+    {
+      "type": "Paper",
+      "id": "Issues of inquiry learning in digital learning environments."
+    },
+    {
+      "type": "Paper",
+      "id": "A web-based tutoring system with styles-matching strategy for spatial geometric transformation"
+    },
+    {
+      "type": "Paper",
+      "id": "Soberdiary: A phone-based support system for assisting recovery from alcohol dependence"
+    },
+    {
+      "type": "Paper",
+      "id": "Virtual classmates: Embodying historical learners' messages as learning companions in a VR classroom through comment mapping"
+    },
+    {
+      "type": "Paper",
+      "id": "Distance matters to weak ties: Exploring how workers perceive their strongly-and weakly-connected collaborators in remote workplaces"
+    },
+    {
+      "type": "Author",
+      "id": "Tsai-Yen Li"
+    },
+    {
+      "type": "Author",
+      "id": "Chi-Lan Yang"
+    },
+    {
+      "type": "Author",
+      "id": "Dan Cosley"
+    },
+    {
+      "type": "Author",
+      "id": "Carolyn Penstein Rose"
+    },
+    {
+      "type": "Author",
+      "id": "Jingxian Liao"
+    },
+    {
+      "type": "Author",
+      "id": "Fu-Yin Cherng"
+    },
+    {
+      "type": "Author",
+      "id": "Jingchao Fang"
+    },
+    {
+      "type": "Author",
+      "id": "Juho Kim"
+    },
+    {
+      "type": "Author",
+      "id": "Qingxiaoyang Zhu"
+    },
+    {
+      "type": "Author",
+      "id": "Katia Canepa Vega"
+    },
+    {
+      "type": "Author",
+      "id": "Hao-Hua Chu - \u6731\u6d69\u83ef"
+    },
+    {
+      "type": "Author",
+      "id": "Ya-Fang Lin"
+    },
+    {
+      "type": "Author",
+      "id": "Eldy S. Lazaro Vasquez"
+    },
+    {
+      "type": "Author",
+      "id": "Wen-Lian Hsu"
+    },
+    {
+      "type": "Author",
+      "id": "Kai-Hui Liang"
+    },
+    {
+      "type": "Author",
+      "id": "Yuan-Chia Chang"
+    },
+    {
+      "type": "Paper",
+      "id": "Major depressive disorder"
+    },
+    {
+      "type": "Paper",
+      "id": "Depression and cortisol responses to psychological stress: a meta-analysis"
+    },
+    {
+      "type": "Paper",
+      "id": "Mobile health technology evaluation: the mHealth evidence workshop"
+    },
+    {
+      "type": "Paper",
+      "id": "Supportive accountability: a model for providing human support to enhance adherence to eHealth interventions"
+    },
+    {
+      "type": "Paper",
+      "id": "Comparison of pharmaceutical, psychological, and exercise treatments for cancer-related fatigue: a meta-analysis"
+    },
+    {
+      "type": "Paper",
+      "id": "Personal sensing: understanding mental health using ubiquitous sensors and machine learning"
+    },
+    {
+      "type": "Paper",
+      "id": "Behavioral intervention technologies: evidence review and recommendations for future research in mental health"
+    },
+    {
+      "type": "Paper",
+      "id": "Mobile phone sensor correlates of depressive symptom severity in daily-life behavior: an exploratory study"
+    },
+    {
+      "type": "Paper",
+      "id": "Harnessing context sensing to develop a mobile intervention for depression"
+    },
+    {
+      "type": "Paper",
+      "id": "Internet-based cognitive behavioral therapy for depression: a systematic review and individual patient data network meta-analysis"
+    },
+    {
+      "type": "Paper",
+      "id": "Oral opioid therapy for chronic peripheral and central neuropathic pain"
+    },
+    {
+      "type": "Paper",
+      "id": "Predictors of posttraumatic stress in police and other first responders"
+    },
+    {
+      "type": "Paper",
+      "id": "Effects of Hatha yoga and African dance on perceived stress, affect, and salivary cortisol"
+    },
+    {
+      "type": "Paper",
+      "id": "Clinical depression versus distress among patients with type 2 diabetes: not just a question of semantics"
+    },
+    {
+      "type": "Paper",
+      "id": "Negative outcome in psychotherapy: A critical review"
+    },
+    {
+      "type": "Paper",
+      "id": "The selection and design of control conditions for randomized controlled trials of psychological interventions"
+    },
+    {
+      "type": "Paper",
+      "id": "Feasibility, acceptability, and preliminary efficacy of a smartphone intervention for schizophrenia"
+    },
+    {
+      "type": "Paper",
+      "id": "The behavioral intervention technology model: an integrated conceptual and technological framework for eHealth and mHealth interventions"
+    },
+    {
+      "type": "Paper",
+      "id": "Association between stressful life events and exacerbation in multiple sclerosis: a meta-analysis"
+    },
+    {
+      "type": "Paper",
+      "id": "MS quality of life, depression, and fatigue improve after mindfulness training: a randomized trial"
+    },
+    {
+      "type": "Author",
+      "id": "Emily Lattie"
+    },
+    {
+      "type": "Author",
+      "id": "Mary Kwasny"
+    },
+    {
+      "type": "Author",
+      "id": "Tae Hart"
+    },
+    {
+      "type": "Author",
+      "id": "Pim Cuijpers"
+    },
+    {
+      "type": "Author",
+      "id": "Konrad Paul Kording"
+    },
+    {
+      "type": "Author",
+      "id": "Christian Otte"
+    },
+    {
+      "type": "Author",
+      "id": "Bonnie Spring"
+    },
+    {
+      "type": "Author",
+      "id": "Colleen Stiles-Shields, Ph.D."
+    },
+    {
+      "type": "Author",
+      "id": "Chris J. Karr"
+    },
+    {
+      "type": "Author",
+      "id": "Sohrab Saeb"
+    },
+    {
+      "type": "Author",
+      "id": "Andrea K. Graham, PhD"
+    },
+    {
+      "type": "Author",
+      "id": "Kathryn N Tomasino"
+    },
+    {
+      "type": "Author",
+      "id": "Stefan Gold"
+    },
+    {
+      "type": "Author",
+      "id": "Juned Siddique"
+    },
+    {
+      "type": "Author",
+      "id": "Daniel Pelletier"
+    },
+    {
+      "type": "Author",
+      "id": "Frank J. Penedo"
+    },
+    {
+      "type": "Author",
+      "id": "Patricia Arean"
+    },
+    {
+      "type": "Author",
+      "id": "William T Riley"
+    },
+    {
+      "type": "Paper",
+      "id": "Internet paradox: A social technology that reduces social involvement and psychological well-being?"
+    },
+    {
+      "type": "Paper",
+      "id": "Internet paradox revisited"
+    },
+    {
+      "type": "Paper",
+      "id": "Psychological research online: report of Board of Scientific Affairs' Advisory Group on the Conduct of Research on the Internet."
+    },
+    {
+      "type": "Paper",
+      "id": "Coordination in software development"
+    },
+    {
+      "type": "Paper",
+      "id": "Patterns of contact and communication in scientific research collaboration"
+    },
+    {
+      "type": "Paper",
+      "id": "Social capital on Facebook: Differentiating uses and users"
+    },
+    {
+      "type": "Paper",
+      "id": "Building successful online communities: Evidence-based social design"
+    },
+    {
+      "type": "Paper",
+      "id": "Informal communication in organizations: Form, function, and technology"
+    },
+    {
+      "type": "Paper",
+      "id": "Applying common identity and bond theory to design of online communities"
+    },
+    {
+      "type": "Paper",
+      "id": "Harnessing the wisdom of crowds in wikipedia: quality through coordination"
+    },
+    {
+      "type": "Paper",
+      "id": "The impact of computer use on children's and adolescents' development"
+    },
+    {
+      "type": "Paper",
+      "id": "The quality of online social relationships"
+    },
+    {
+      "type": "Paper",
+      "id": "The impact of home computer use on children's activities and development"
+    },
+    {
+      "type": "Paper",
+      "id": "Building member attachment in online communities: Applying theories of group identity and interpersonal bonds"
+    },
+    {
+      "type": "Paper",
+      "id": "Social and emotional messages of smiling: an ethological approach."
+    },
+    {
+      "type": "Paper",
+      "id": "Evaluating video as a technology for informal communication"
+    },
+    {
+      "type": "Paper",
+      "id": "Crowdforge: Crowdsourcing complex work"
+    },
+    {
+      "type": "Paper",
+      "id": "The relationship between Facebook use and well-being depends on communication type and tie strength"
+    },
+    {
+      "type": "Paper",
+      "id": "Community effort in online groups: Who does the work and why?"
+    },
+    {
+      "type": "Paper",
+      "id": "Using social psychology to motivate contributions to online communities"
+    },
+    {
+      "type": "Author",
+      "id": "Sara Kiesler"
+    },
+    {
+      "type": "Author",
+      "id": "Aniket Kittur"
+    },
+    {
+      "type": "Author",
+      "id": "Moira Burke"
+    },
+    {
+      "type": "Author",
+      "id": "William Scherlis"
+    },
+    {
+      "type": "Author",
+      "id": "Robert S Fish"
+    },
+    {
+      "type": "Author",
+      "id": "Paul Resnick"
+    },
+    {
+      "type": "Author",
+      "id": "Yuqing Ren"
+    },
+    {
+      "type": "Author",
+      "id": "Laura Dabbish"
+    },
+    {
+      "type": "Author",
+      "id": "Jonathon Cummings"
+    },
+    {
+      "type": "Author",
+      "id": "Brian Butler"
+    },
+    {
+      "type": "Author",
+      "id": "Diyi Yang"
+    },
+    {
+      "type": "Author",
+      "id": "Yi-Chia Wang (\u738b\u6021\u5609)"
+    },
+    {
+      "type": "Author",
+      "id": "Irina Shklovski"
+    },
+    {
+      "type": "Author",
+      "id": "J. Alberto Espinosa"
+    },
+    {
+      "type": "Author",
+      "id": "John Riedl"
+    },
+    {
+      "type": "Author",
+      "id": "Darren Gergle"
+    },
+    {
+      "type": "Author",
+      "id": "John Levine"
+    },
+    {
+      "type": "Author",
+      "id": "Elisabeth Joyce"
+    },
+    {
+      "type": "Paper",
+      "id": "Spatial filtering for EEG-based regression problems in brain-computer interface (BCI)"
+    },
+    {
+      "type": "Paper",
+      "id": "An EEG-based fatigue detection and mitigation system"
+    },
+    {
+      "type": "Paper",
+      "id": "Forehead EEG in Support of Future Feasible Personal Healthcare Solutions: Sleep Management, Headache Prevention, and Depression Treatment"
+    },
+    {
+      "type": "Paper",
+      "id": "Mind-wandering tends to occur under low perceptual demands during driving"
+    },
+    {
+      "type": "Paper",
+      "id": "EEG alpha and gamma modulators mediate motion sickness-related spectral responses"
+    },
+    {
+      "type": "Paper",
+      "id": "Imagining Garage Start-Ups: Interactive Effects of Imaginative Capacities on Entrepreneurial Intention"
+    },
+    {
+      "type": "Paper",
+      "id": "An EEG-based Approach for Evaluating Graphic Icons from the Perspective of Semantic Distance"
+    },
+    {
+      "type": "Paper",
+      "id": "Learning in the visual association of novice and expert designers"
+    },
+    {
+      "type": "Paper",
+      "id": "An inflatable and wearable wireless system for making 32-channel electroencephalogram measurements"
+    },
+    {
+      "type": "Paper",
+      "id": "A wireless steady state visually evoked potential-based BCI eating assistive system"
+    },
+    {
+      "type": "Paper",
+      "id": "Stimulating the imaginative capacities of agricultural extension students"
+    },
+    {
+      "type": "Paper",
+      "id": "Measuring Cognitive Conflict in Virtual Reality with Feedback-Related Negativity"
+    },
+    {
+      "type": "Paper",
+      "id": "Extracting patterns of single-trial EEG using an adaptive learning algorithm"
+    },
+    {
+      "type": "Paper",
+      "id": "Attention in Complex Environment of Brain Computer Interface"
+    },
+    {
+      "type": "Paper",
+      "id": "Effect of a cognitive involving videogame on MI task"
+    },
+    {
+      "type": "Paper",
+      "id": "Mindful garden: supporting reflection on biosignals in a co-located augmented reality mindfulness experience"
+    },
+    {
+      "type": "Paper",
+      "id": "Revisiting piggyback prototyping: Examining benefits and tradeoffs in extending existing social computing systems"
+    },
+    {
+      "type": "Paper",
+      "id": "SnapPI: Understanding everyday use of personal informatics data stickers on ephemeral social media"
+    },
+    {
+      "type": "Paper",
+      "id": "Exploring the complementary features of audio and text notes for video-based learning in mobile settings"
+    },
+    {
+      "type": "Paper",
+      "id": "Exploring Activity-Sharing Response Differences Between Broad-Purpose and Dedicated Online Social Platforms"
+    },
+    {
+      "type": "Paper",
+      "id": "PinchFun: A Fine Motor Training Game for Preschool Children with Developmental Delay"
+    },
+    {
+      "type": "Paper",
+      "id": "Deciding if and how to use a COVID-19 contact tracing app: influences of social factors on individual use in Japan"
+    },
+    {
+      "type": "Paper",
+      "id": "Use of an AI-powered rewriting support software in context with other tools: a study of non-native English speakers"
+    },
+    {
+      "type": "Paper",
+      "id": "Unpacking intention and behavior: Explaining contact tracing app adoption and hesitancy in the United States"
+    },
+    {
+      "type": "Paper",
+      "id": "Predicting open source contributor turnover from value-related discussions: An analysis of GitHub issues"
+    },
+    {
+      "type": "Paper",
+      "id": "Slowing it down: Towards facilitating interpersonal mindfulness in online polarizing conversations over social media"
+    },
+    {
+      "type": "Paper",
+      "id": "Many (to platform) to many: Web 2.0 application infrastructures"
+    },
+    {
+      "type": "Paper",
+      "id": "Maintaining values: Navigating diverse perspectives in value-charged discussions in open source development"
+    },
+    {
+      "type": "Paper",
+      "id": "Impacts of the Strength and Conformity of Social Norms on Well-Being: A Mixed-Method Study Among Hybrid Workers in Japan"
+    },
+    {
+      "type": "Paper",
+      "id": "Bridging the open web and apis: Alternative social media alongside the corporate web"
+    },
+    {
+      "type": "Paper",
+      "id": "Escaping the Walled Garden? User Perspectives of Control in Data Portability for Social Media"
+    },
+    {
+      "type": "Paper",
+      "id": "The Impact of Social Norms on Hybrid Workers\u2019 Well-Being: A Cross-Cultural Comparison of Japan and the United States"
+    },
+    {
+      "type": "Paper",
+      "id": "Multiplying the Medium: Tie Strength, Social Role, and Mobile Media Multiplexity"
+    },
+    {
+      "type": "Paper",
+      "id": "From Interaction to Attitude: Exploring the Impact of Human-AI Cooperation on Mental Illness Stigma"
+    },
+    {
+      "type": "Paper",
+      "id": "Independent together: Building and maintaining values in a distributed web infrastructure"
+    },
+    {
+      "type": "Paper",
+      "id": "EaseOut: A Cross-Cultural Study of the Impact of a Conversation Agent on Leaving Video Meetings Early"
+    },
+    {
+      "type": "Paper",
+      "id": "Depending on Others in the IndieWeb: Navigating Holistic and Prescriptive Building in a Decentralized Social Network"
+    },
+    {
+      "type": "Paper",
+      "id": "Using sonification to explore texting response time in time stamped interactional data"
+    },
+    {
+      "type": "Paper",
+      "id": "Keitai and Japanese adolescents"
+    },
+    {
+      "type": "Author",
+      "id": "Jeffrey Boase"
+    },
+    {
+      "type": "Author",
+      "id": "Daniel A. Epstein"
+    },
+    {
+      "type": "Author",
+      "id": "Wataru Akahori"
+    },
+    {
+      "type": "Author",
+      "id": "Jun Suzuki"
+    },
+    {
+      "type": "Author",
+      "id": "Tatsuki Kuribayashi"
+    },
+    {
+      "type": "Author",
+      "id": "Kentaro Inui"
+    },
+    {
+      "type": "Author",
+      "id": "Takumi Ito"
+    },
+    {
+      "type": "Author",
+      "id": "Yunan Chen"
+    },
+    {
+      "type": "Author",
+      "id": "Helen Ai He"
+    },
+    {
+      "type": "Author",
+      "id": "Teale W Masrani"
+    },
+    {
+      "type": "Author",
+      "id": "Rhonda McEwen"
+    },
+    {
+      "type": "Author",
+      "id": "Tetsuro Kobayashi"
+    },
+    {
+      "type": "Author",
+      "id": "Holly Tianqi Song"
+    },
+    {
+      "type": "Author",
+      "id": "Mitsuaki Akiyama"
+    },
+    {
+      "type": "Paper",
+      "id": "FingerPad: private and subtle interaction using fingertips"
+    },
+    {
+      "type": "Paper",
+      "id": "Thermovr: Exploring integrated thermal haptic feedback with head mounted displays"
+    },
+    {
+      "type": "Paper",
+      "id": "CapStones and ZebraWidgets: sensing stacks of building blocks, dials and sliders on capacitive touch screens"
+    },
+    {
+      "type": "Paper",
+      "id": "Cyclopsring: Enabling whole-hand and context-aware interactions through a fisheye ring"
+    },
+    {
+      "type": "Paper",
+      "id": "Digitspace: Designing thumb-to-fingers touch interfaces for one-handed and eyes-free interactions"
+    },
+    {
+      "type": "Paper",
+      "id": "Touching the void: Direct-touch interaction for intangible displays"
+    },
+    {
+      "type": "Paper",
+      "id": "Pupop: Pop-up prop on palm for virtual reality"
+    },
+    {
+      "type": "Paper",
+      "id": "Thermalbracelet: Exploring thermal haptic feedback around the wrist"
+    },
+    {
+      "type": "Paper",
+      "id": "TUIC: enabling tangible interaction on capacitive multi-touch displays"
+    },
+    {
+      "type": "Paper",
+      "id": "Collaborative localization: Enhancing WiFi-based position estimation with neighborhood links in clusters"
+    },
+    {
+      "type": "Paper",
+      "id": "Outside-in: Visualizing out-of-sight regions-of-interest in a 360 video using spatial picture-in-picture previews"
+    },
+    {
+      "type": "Paper",
+      "id": "FrontFace: facilitating communication between HMD users and outsiders using front-facing-screen HMDs"
+    },
+    {
+      "type": "Paper",
+      "id": "Edgevib: Effective alphanumeric character output using a wrist-worn tactile display"
+    },
+    {
+      "type": "Paper",
+      "id": "Facepush: Introducing normal force on face with head-mounted displays"
+    },
+    {
+      "type": "Paper",
+      "id": "Palmgesture: Using palms as gesture interfaces for eyes-free input"
+    },
+    {
+      "type": "Paper",
+      "id": "NailDisplay: bringing an always available visual display to fingertips"
+    },
+    {
+      "type": "Paper",
+      "id": "GaussBricks: magnetic building blocks for constructive tangible interactions on portable displays"
+    },
+    {
+      "type": "Paper",
+      "id": "GaussBits: magnetic tangible bits for portable and occlusion-free near-surface interactions"
+    },
+    {
+      "type": "Paper",
+      "id": "Tilepop: Tile-type pop-up prop for virtual reality"
+    },
+    {
+      "type": "Paper",
+      "id": "Investigating positive and negative qualities of human-in-the-loop optimization for designing interaction techniques"
+    },
+    {
+      "type": "Author",
+      "id": "Bing-Yu Chen"
+    },
+    {
+      "type": "Author",
+      "id": "Yi-Ping Hung"
+    }
+  ],
+  "links": [
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "\"I Hear You, I Feel You\": Encouraging Deep Self-disclosure through a Chatbot"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Designing a Chatbot as a Mediator for Promoting Deep Self-Disclosure to a Real Mental Health Professional"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Development of an EOG-based automatic sleep-monitoring eye mask"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Using time-anchored peer comments to enhance social interaction in online educational videos"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "\" I love the feeling of being on stage, but I become greedy\" Exploring the impact of monetary incentives on live streamers' social interactions and streaming content"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Understanding how digital gifting influences social interaction on live streams"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Design and Evaluation Challenges of Conversational Agents in Health Care and Well-being: Selective Review Study"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Exploration of User\u2019s Mental State Changes during Performing Brain\u2013Computer Interface"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Exploring the Effects of Incorporating Human Experts to Deliver Journaling Guidance through a Chatbot"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Understanding Public Perceptions of AI Conversational Agents: A Cross-Cultural Analysis"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "A visual attention monitor based on steady-state visual evoked potential"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Exploring Effects of Chatbot-based Social Contact on Reducing Mental Illness Stigma"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Tip me! Tipping is changing social interactions on live streams in China"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "The dark side of ai companionship: A taxonomy of harmful algorithmic behaviors in human-ai relationships"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "\" We gather together we collaborate together\": Exploring the challenges and strategies of Chinese lesbian and bisexual women's online communities on Weibo"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Assessing Users\u2019 Mental Status from their Journaling Behavior through Chatbots"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "\u201cSo Close, yet so Far\u201d: Exploring Sexual-Minority Women\u2019s Relationship Building via Online Dating in China."
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Improving donation distribution for crowdfunding: An agent-based model"
+    },
+    {
+      "relation": "authored",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "An EEG-based approach for evaluating audio notifications under ambient sounds"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "6_ecKdsAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Naomi Yamashita"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "6_ecKdsAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Renwen Zhang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "6_ecKdsAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Wen-Chieh Lin"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "6_ecKdsAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Yun Huang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "6_ecKdsAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Han Li"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "2-S-B2wAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Li-Wei Ko"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "6_ecKdsAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Yichao Cui"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "fr_5mMQAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Zicheng Zhu"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "6_ecKdsAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Hao-Chuan Wang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "CgFxSnAAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "David C. Mohr"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "HKGYvu4AAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Robert E. Kraut"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "-29eL_kAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Jung-Tai King"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "_rDB9vwAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Dennis Wang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "6_ecKdsAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Jack Jamieson"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "yF0Cw1EAAAAJ",
+      "source": "Yi-Chieh (EJ) Lee",
+      "target": "Liwei Chan"
+    },
+    {
+      "relation": "authored",
+      "source": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
+      "target": "Renwen Zhang"
+    },
+    {
+      "relation": "authored",
+      "source": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
+      "target": "Han Li"
+    },
+    {
+      "relation": "authored",
+      "source": "Designing a Chatbot as a Mediator for Promoting Deep Self-Disclosure to a Real Mental Health Professional",
+      "target": "Yun Huang"
+    },
+    {
+      "relation": "authored",
+      "source": "Development of an EOG-based automatic sleep-monitoring eye mask",
+      "target": "Wen-Chieh Lin"
+    },
+    {
+      "relation": "authored",
+      "source": "Using time-anchored peer comments to enhance social interaction in online educational videos",
+      "target": "Wen-Chieh Lin"
+    },
+    {
+      "relation": "authored",
+      "source": "Using time-anchored peer comments to enhance social interaction in online educational videos",
+      "target": "Hao-Chuan Wang"
+    },
+    {
+      "relation": "authored",
+      "source": "Using time-anchored peer comments to enhance social interaction in online educational videos",
+      "target": "Jung-Tai King"
+    },
+    {
+      "relation": "authored",
+      "source": "\" I love the feeling of being on stage, but I become greedy\" Exploring the impact of monetary incentives on live streamers' social interactions and streaming content",
+      "target": "Dennis Wang"
+    },
+    {
+      "relation": "authored",
+      "source": "Understanding how digital gifting influences social interaction on live streams",
+      "target": "Dennis Wang"
+    },
+    {
+      "relation": "authored",
+      "source": "A visual attention monitor based on steady-state visual evoked potential",
+      "target": "Wen-Chieh Lin"
+    },
+    {
+      "relation": "authored",
+      "source": "The dark side of ai companionship: A taxonomy of harmful algorithmic behaviors in human-ai relationships",
+      "target": "Han Li"
+    },
+    {
+      "relation": "authored",
+      "source": "\" We gather together we collaborate together\": Exploring the challenges and strategies of Chinese lesbian and bisexual women's online communities on Weibo",
+      "target": "Yichao Cui"
+    },
+    {
+      "relation": "authored",
+      "source": "An EEG-based approach for evaluating audio notifications under ambient sounds",
+      "target": "Jung-Tai King"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "\" I hear you, I feel you\": encouraging deep self-disclosure through a chatbot"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Designing a chatbot as a mediator for promoting deep self-disclosure to a real mental health professional"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Effects of machine translation on collaborative work"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Difficulties in establishing common ground in multiparty groups using machine translation"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Changing moods: How manual tracking by family caregivers improves caring and family communication"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Understanding the conflicting demands of family caregivers caring for depressed family members"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Improving visibility of remote gestures in distributed tabletop collaboration"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Open Source Software Development with Your Mother Language: Intercultural Collaboration Experiment 2002."
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Showing objects: Holding and manipulating artefacts in video-mediated collaborative settings"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Embedded interaction: The accomplishment of actions in everyday and video-mediated environments"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "How Information Sharing about Care Recipients by Family Caregivers Impacts Family Communication"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Embedded reference: Translocating gestures in video-mediated interaction"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Vroom: virtual robot overlay for online meetings"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Automatic prediction of misconceptions in multilingual computer-mediated communication"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Impact of seating positions on group video communication"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Effects of public vs. private automated transcripts on multiparty communication between native and non-native English speakers"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Culturally-situated pictogram retrieval"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Exploring the effects of incorporating human experts to deliver journaling guidance through a chatbot"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Lost in transmittance: how transmission lag enhances and deteriorates multilingual collaboration"
+    },
+    {
+      "relation": "authored",
+      "source": "Naomi Yamashita",
+      "target": "Improving multilingual collaboration by displaying how non-native speakers use automated transcripts and bilingual dictionaries"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "tkq3V8QAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Hideaki Kuzuoka"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "x11Wp_sAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Toru Ishida"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "0Esyxf4AAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Jack Jamieson"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "ZU8vXZ4AAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Paul Luff"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "eWis9lAAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Christian Heath"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "xBfgUNoAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Ge Gao"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "eKGYD-UAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Katsuhiko Kaji"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "0Esyxf4AAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Yun Huang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "QpG20J0AAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Susan Fussell"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "zAUFD6MAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "keiji hirata"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "F_8CcksAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Rieko Inaba"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "If09U8QAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Andy Echenique"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "pTvK6R0wMkYC",
+      "source": "Naomi Yamashita",
+      "target": "Toshihiro Takada"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "0Esyxf4AAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Hao-Chuan Wang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "Ih8cJXQAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Hideki Koike"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "hgCoNowAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "ZhengQing Li"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "IV2W5d8AAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Eiji ARAMAKI / \u8352\u7267\u82f1\u6cbb"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "kkLQzFAAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Saeko Nomura (Baird)"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "HXyE1GUAAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Marina Jirotka"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "0Esyxf4AAAAJ",
+      "source": "Naomi Yamashita",
+      "target": "Yichao Cui"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "The stress-buffering effect of self-disclosure on Facebook: An examination of stressful life events, social support, and mental health among college students"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "An agenda for open science in communication"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Mapping ICT use at home and telecommuting practices: A perspective from work/family border theory"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Passive social media use and psychological well-being during the COVID-19 pandemic: The role of social comparison and emotion regulation"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Provider perspectives on the integration of patient-reported outcomes in an electronic health record"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Designing mental health technologies that support the social ecosystem of college students"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Clinically meaningful use of mental health apps and its effects on depression: mixed methods study"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Predicting tablet use: A study of gratifications-sought, leisure boredom, and multitasking"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Privacy management and self-disclosure on social network sites: The moderating effects of stress and gender"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Online support groups for depression in China: Culturally shaped interactions and motivations"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Designing for Emotional Well-Being: Integrating Persuasion and Customization into Mental Health Technologies"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "\"Energy is a finite resource\": designing technology to support individuals across fluctuating symptoms of depression"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Distress disclosure across social media platforms during the COVID-19 pandemic: Untangling the effects of platforms, affordances, and audiences"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Finding love in algorithms: deciphering the emotional contexts of close encounters with AI chatbots"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Predictors of student engagement and perceived learning in emergency online education amidst COVID-19: A community of inquiry perspective"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Social media use, psychological well-being and physical health during lockdown"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Identifying practice facilitation delays and barriers in primary care quality improvement"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Social media use, perceived social support, and well-being: Evidence from two waves of surveys peri-and post-COVID-19 lockdown"
+    },
+    {
+      "relation": "authored",
+      "source": "Renwen Zhang",
+      "target": "Are older adults networked individuals? Insights from East Yorkers\u2019 network structure, relational autonomy, and digital media use"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "ZD-2ddIAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Madhu Reddy"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "xRR5W0AAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Han Li"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "CgFxSnAAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "David C. Mohr"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "dL0MbqMAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Louis Leung"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "rTvqMvkAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Zhiying (Zoey) Yue, Ph.D."
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "fr_5mMQAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Zicheng Zhu"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "g_yas1EAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Kathryn E. Ringland"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "2q4bWeYAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Rachel Kornfield"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "rIRnp1QAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "J. Sophia Fu"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "UOedILkAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Hua Wang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "wF-KSmMAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Jennifer Nicholas"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "TnwvGywAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Han Meng"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "HKGYvu4AAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Robert E. Kraut"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "lWyhkYsAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Stephen Schueller"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "o5za6gIAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Anabel Quan-Haase"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "bp6zYjsAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Eleanor R Burgess"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "QvttE5MAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Justin Starren"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "1Y4OvMIAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Afonso Anfan Chen"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "gTOBw9EAAAAJ",
+      "source": "Renwen Zhang",
+      "target": "Zihan Liu"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Near-regular texture analysis and manipulation"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Real-time physics-based 3d biped character animation using an inverted pendulum model"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "The promise and perils of near-regular texture"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Deep sparse representation classifier for facial recognition and detection system"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "A lattice-based MRF model for dynamic near-regular texture tracking"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Robust feature-based automated multi-view human action recognition system"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Quantitative evaluation of near regular texture synthesis algorithms"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "A normal distribution transform-based radar odometry designed for scanning and automotive radars"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "A gesture system for graph visualization in virtual reality environments"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "A comparison study of four texture synthesis algorithms on near-regular textures"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "How the presence and size of static peripheral blur affects cybersickness in virtual reality"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Tracking dynamic near-regular texture under occlusion and rapid movements"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Conceptguide: Supporting online video learning with concept map-based recommendation of learning path"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Exploration of user\u2019s mental state changes during performing brain\u2013computer interface"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Radial view based culling for continuous self-collision detection of skeletal models"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Stylized rendering using samples of a painted image"
+    },
+    {
+      "relation": "authored",
+      "source": "Wen-Chieh Lin",
+      "target": "Design and initial evaluation of a VR based immersive and interactive architectural design discussion system"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "qYcG-q0AAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "yanxi liu \u5289\u71d5\u897f"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "nubkF1cAAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "Chin-Teng Lin"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "vjZrDKQAAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "James Hays"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "QSh468sAAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "Sai-Keung Wong"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "V3PTB98AAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "Tong-Yee Lee"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "2-S-B2wAAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "Li-Wei Ko"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "AKeIOxIAAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "Yu-Shuen Wang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "-JttgAYAAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "Yu-Ting Tsai"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "YHlvUsAAAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "Jehee Lee"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "H7vcwSAAAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "Vivek Kwatra"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "THKB5m0AAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "I-Cheng (Garrett) Yeh \u8449\u5955\u6210"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "pa09Db8AAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "Yanghai Tsin"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "aACThuIAAAAJ",
+      "source": "Wen-Chieh Lin",
+      "target": "Ming-Te Chi"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "\" I Hear You, I Feel You\": Encouraging Deep Self-disclosure through a Chatbot"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "Field trial of tiramisu: crowd-sourcing bus arrival times to spur co-design"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "\" I Felt a Little Crazy Following a'Doll'\" Investigating Real Influence of Virtual Influencers on Their Followers"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "Flying eyes and hidden controllers: A qualitative study of people\u2019s privacy perceptions of civilian drones in the US"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "UX research on conversational human-AI interaction: A literature review of the ACM Digital Library"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "\" I was afraid, but now I enjoy being a streamer!\" Understanding the Challenges and Prospects of Using Live Streaming for Online Education"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "\" It's A Blessing and A Curse\": Unpacking Creators' Practices with Non-Fungible Tokens (NFTs) and Their Communities"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation with an LLM-based Agent"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "Danmaku vs. forum comments: understanding user participation and knowledge sharing in online videos"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "Privacy mechanisms for drones: Perceptions of drone controllers and bystanders"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "\" Our Privacy Needs to be Protected at All Costs\" Crowd Workers' Privacy Experiences on Amazon Mechanical Turk"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "Developing a research agenda for human-centered data science"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "Examining American and Chinese internet users' contextual privacy preferences of behavioral advertising"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "I'm All Eyes and Ears: Exploring Effective Locators for Privacy Awareness in IoT Scenarios"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "Danmaku: A new paradigm of social interaction via online videos"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "Understanding Safety Risks and Safety Design in Social VR Environments"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "Emotion map: A location-based mobile social system for improving emotion awareness and regulation"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "Understanding Danmaku's potential in online video learning"
+    },
+    {
+      "relation": "authored",
+      "source": "Yun Huang",
+      "target": "An energy-efficient middleware for supporting multimedia services in mobile grid environments"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "bN-ipRAAAAAJ",
+      "source": "Yun Huang",
+      "target": "Yang Wang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "0ESFhZ0AAAAJ",
+      "source": "Yun Huang",
+      "target": "Si Chen"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "9EsqxyoAAAAJ",
+      "source": "Yun Huang",
+      "target": "Qingxiao Zheng"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "CQ39OowAAAAJ",
+      "source": "Yun Huang",
+      "target": "Aaron Steinfeld"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "iLkUzc4AAAAJ",
+      "source": "Yun Huang",
+      "target": "Yiren Liu"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "ybfAUpsAAAAJ",
+      "source": "Yun Huang",
+      "target": "Anthony Tomasic"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "cMYOBo8AAAAJ",
+      "source": "Yun Huang",
+      "target": "Yiliu Tang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "A-4JUL4AAAAJ",
+      "source": "Yun Huang",
+      "target": "John Zimmerman"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "qfCah3sAAAAJ",
+      "source": "Yun Huang",
+      "target": "Nalini Venkatasubramanian"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "m3BSoXoAAAAJ",
+      "source": "Yun Huang",
+      "target": "Daisy Yoo"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "zr6lgS8AAAAJ",
+      "source": "Yun Huang",
+      "target": "Ying Tang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "HQupC7wAAAAJ",
+      "source": "Yun Huang",
+      "target": "Shengdong ZHAO"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "zFjlv1sAAAAJ",
+      "source": "Yun Huang",
+      "target": "Hua Shen"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "LZIPfCkAAAAJ",
+      "source": "Yun Huang",
+      "target": "Meng Jiang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "tRt1xPYAAAAJ",
+      "source": "Yun Huang",
+      "target": "Jinjun Xiong"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "P4u5JI8AAAAJ",
+      "source": "Yun Huang",
+      "target": "Yaman Yu"
+    },
+    {
+      "relation": "authored",
+      "source": "Han Li",
+      "target": "Finding love in algorithms: deciphering the emotional contexts of close encounters with AI chatbots"
+    },
+    {
+      "relation": "authored",
+      "source": "Han Li",
+      "target": "Understanding public perceptions of AI conversational agents: A cross-cultural analysis"
+    },
+    {
+      "relation": "authored",
+      "source": "Han Li",
+      "target": "Mental health during the COVID-19 pandemic: Impacts of disease, social isolation, and financial stressors"
+    },
+    {
+      "relation": "authored",
+      "source": "Han Li",
+      "target": "Technical features of asynchronous and synchronous community platforms and their effects on community cohesion: a comparative study of forum-based and chat-based online mental \u2026"
+    },
+    {
+      "relation": "authored",
+      "source": "Han Li",
+      "target": "AI Privacy in Context: A Comparative Study of Public and Institutional Discourse on Conversational AI Privacy in the US and China"
+    },
+    {
+      "relation": "authored",
+      "source": "Han Li",
+      "target": "\" My Replika Cheated on Me and She Liked It\": A Taxonomy of Algorithmic Harms in Human-AI Relationships"
+    },
+    {
+      "relation": "authored",
+      "source": "Han Li",
+      "target": "Unraveling the Cross-Cultural Differences in Online Expression of Social Anxiety in Online Support Communities"
+    },
+    {
+      "relation": "authored",
+      "source": "Han Li",
+      "target": "\u4e2d\u56fd\u65b0\u95fb\u7f51\u7ad9\u7684\u7f51\u7edc\u4f20\u64ad\u7ed3\u6784\u53ca\u5176\u5f71\u54cd\u529b\u7814\u7a76"
+    },
+    {
+      "relation": "authored",
+      "source": "Han Li",
+      "target": "The role of public art in the communicative practices on university campuses in North America - A case study of public art controversies at an Canadian university"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "HKGYvu4AAAAJ",
+      "source": "Han Li",
+      "target": "Robert E. Kraut"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "CgFxSnAAAAAJ",
+      "source": "Han Li",
+      "target": "David C. Mohr"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "9NkngDMAAAAJ",
+      "source": "Han Li",
+      "target": "Haiyi Zhu"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "1Y4OvMIAAAAJ",
+      "source": "Han Li",
+      "target": "Afonso Anfan Chen"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Wireless and wearable EEG system for evaluating driver vigilance"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Sustained attention in real classroom settings: An EEG study"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Development of wireless brain computer interface with embedded multitask scheduling and its application on real-time driver's drowsiness detection and warning"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "An intelligent telecardiology system using a wearable and wireless ECG to detect atrial fibrillation"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Noninvasive neural prostheses using mobile and wireless EEG"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Adaptive EEG-based alertness estimation system by using ICA-based fuzzy neural networks"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Biosensor technologies for augmented brain\u2013computer interfaces in the next decades"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Generalized EEG-based drowsiness prediction system by using a self-organizing neural fuzzy system"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "EEG-based subject-and session-independent drowsiness detection: an unsupervised approach"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Review of wireless and wearable electroencephalogram systems and brain-computer interfaces\u2013a mini-review"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "EEG-based assessment of driver cognitive responses in a dynamic virtual-reality driving environment"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Spatial and temporal EEG dynamics of motion sickness"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "EEG-based learning system for online motion sickness level estimation in a dynamic vehicle environment"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Spatial and temporal EEG dynamics of dual-task driving performance"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Extraction of SSVEPs-based inherent fuzzy entropy using a wearable headband EEG in migraine patients"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "A subject-transfer framework for obviating inter-and intra-subject variability in EEG-based drowsiness detection"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Characterizing media content and effects of organ donation on a social media platform: content analysis"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Knowledge-based identification of sleep stages based on two forehead electroencephalogram channels"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "An EEG-based perceptual function integration network for application to drowsy driving"
+    },
+    {
+      "relation": "authored",
+      "source": "Li-Wei Ko",
+      "target": "Using novel MEMS EEG sensors in detecting drowsiness application"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "nubkF1cAAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Chin-Teng Lin"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "IWsSoAUAAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Tzyy-Ping Jung"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "T011EFcAAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Chun-Hsiang (Michael) Chuang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "bnqO_74AAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Rupesh Kumar Chikara"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "y-zIvSYAAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Chih-Sheng Huang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "nqcqvNgAAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Bor-Chen Kuo"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "yJKEaLAAAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Jin Chern Chiou"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "AzMzY5AAAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Klaus Gramann"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "n0Zxoa4AAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Yu-Kai Wang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "fVPiDcsAAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Shih-Yu Li"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "5rh6PIYAAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Kuan-Chih Huang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "tcob660AAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Chun-Shu Wei"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "_s4Z_HsAAAAJ",
+      "source": "Li-Wei Ko",
+      "target": "Chun-Ling Lin (\u6797\u541b\u73b2)"
+    },
+    {
+      "relation": "authored",
+      "source": "Yichao Cui",
+      "target": "Exploring effects of chatbot-based social contact on reducing mental illness stigma"
+    },
+    {
+      "relation": "authored",
+      "source": "Yichao Cui",
+      "target": "\u201cSo close, yet so far\u201d: exploring sexual-minority women\u2019s relationship-building via online dating in china"
+    },
+    {
+      "relation": "authored",
+      "source": "Yichao Cui",
+      "target": "Exploring effects of chatbot's interpretation and self-disclosure on mental illness stigma"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "BogYlKwAAAAJ",
+      "source": "Yichao Cui",
+      "target": "Jack Jamieson"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "9wbVdmEAAAAJ",
+      "source": "Yichao Cui",
+      "target": "Wayne Fu"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "HkcmBvAAAAAJ",
+      "source": "Yichao Cui",
+      "target": "Yu Jen, Lee"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Examining the Persuasive Effects of Health Communication in Short Videos: Systematic Review"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Toxicity and prosocial behaviors in massively multiplayer online games: The role of mutual dependence, power, and passion"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Multi-Agents are Social Groups: Investigating Social Influence of Multiple Agents in Human-Agent Interactions"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "The Benefits of Prosociality towards AI Agents: Examining the Effects of Helping AI Agents on Human Well-Being"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Developing Intentional Relationships with Technologies: Exploring Players\u2019 Tension between Play and Non-play and Designing Built-in Interventions to Contribute to Digital Well \u2026"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Developing Intentional Relationships with Technologies: An Exploratory Study of Players\u2019 Experiences with Built-in Interventions in Games"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "AI-Based Speaking Assistant: Supporting Non-Native Speakers' Speaking in Real-Time Multilingual Communication"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Greater than the Sum of its Parts: Exploring Social Influence of Multi-Agents"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Mining Evidence about Your Symptoms: Mitigating Availability Bias in Online Self-Diagnosis"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Exploring the Effects of Chatbot Anthropomorphism and Human Empathy on Human Prosocial Behavior Toward Chatbots"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Contextual influences and agency to transform context in excessive gaming: A social-ecological perspective"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Humans Help Conversational AI: Exploring the Impact of Perceived AI Deservingness on People\u2019s Decisions to Help and Their Perceptions on AI Seeking Help"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "AI Literacy Education for Older Adults: Motivations, Challenges and Preferences"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Understanding Problematic Gaming Through Self-Determined Versus Non-Self-Determined Motivation: Two Mediating Pathways of Harmonious and Obsessive Passion"
+    },
+    {
+      "relation": "authored",
+      "source": "Zicheng Zhu",
+      "target": "Digital Wellbeing in Gaming: An Examination Through Technological and Social Contextual Lenses"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Idea expander: supporting group brainstorming with conversationally triggered visual thinking stimuli"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Assessing creative problem-solving with automated text grading"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Cultural difference and adaptation of communication styles in computer-mediated group brainstorming"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "From diversity to creativity: Stimulating group brainstorming with cultural differences and conversationally-retrieved pictures"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "ConceptScape: Collaborative concept mapping for video learning"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "An empirical exploration of using wiki in an English as a second language course"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "The comparative efficacy of 2D-versus 3D-based media design for influencing spatial visualization skills"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Introducing the sustainable prototyping life cycle for digital fabrication to designers"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Agent-based dynamic support for learning from collaborative brainstorming in scientific inquiry"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Conceptguide: Supporting online video learning with concept map-based recommendation of learning path"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Groups in groups: Conversational similarity in online multicultural multiparty brainstorming"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "How personal experience and technical knowledge affect using conversational agents"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Same translation but different experience: the effects of highlighting on machine-translated conversations"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Machine translation vs. common language: Effects on idea exchange in cross-lingual groups"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Issues of inquiry learning in digital learning environments."
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "A web-based tutoring system with styles-matching strategy for spatial geometric transformation"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Soberdiary: A phone-based support system for assisting recovery from alcohol dependence"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Virtual classmates: Embodying historical learners' messages as learning companions in a VR classroom through comment mapping"
+    },
+    {
+      "relation": "authored",
+      "source": "Hao-Chuan Wang",
+      "target": "Distance matters to weak ties: Exploring how workers perceive their strongly-and weakly-connected collaborators in remote workplaces"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "qN0yY44AAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Tsai-Yen Li"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "QpG20J0AAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Susan Fussell"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "P9ERRxAAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Chi-Lan Yang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "_KNDS-kZ-nIJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Dan Cosley"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "BMydCgcAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Carolyn Penstein Rose"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "b4fLL8gAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Jingxian Liao"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "RNihHkMAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Fu-Yin Cherng"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "nBkwQFoAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Jingchao Fang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "2dDAbMgAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Juho Kim"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "cBIq1VcAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Qingxiaoyang Zhu"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "ADVBdvIAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Katia Canepa Vega"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "aV5Bk7MAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Hao-Hua Chu - \u6731\u6d69\u83ef"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "nJoA7Z4AAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Ya-Fang Lin"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "s0B13A0AAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Eldy S. Lazaro Vasquez"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "NqkY4tIAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Wen-Lian Hsu"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "cx9sp4cAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Kai-Hui Liang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "EwbJvcsAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Yuan-Chia Chang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "xBfgUNoAAAAJ",
+      "source": "Hao-Chuan Wang",
+      "target": "Ge Gao"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Major depressive disorder"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Depression and cortisol responses to psychological stress: a meta-analysis"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Mobile health technology evaluation: the mHealth evidence workshop"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Supportive accountability: a model for providing human support to enhance adherence to eHealth interventions"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Comparison of pharmaceutical, psychological, and exercise treatments for cancer-related fatigue: a meta-analysis"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Personal sensing: understanding mental health using ubiquitous sensors and machine learning"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Behavioral intervention technologies: evidence review and recommendations for future research in mental health"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Mobile phone sensor correlates of depressive symptom severity in daily-life behavior: an exploratory study"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Harnessing context sensing to develop a mobile intervention for depression"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Internet-based cognitive behavioral therapy for depression: a systematic review and individual patient data network meta-analysis"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Oral opioid therapy for chronic peripheral and central neuropathic pain"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Predictors of posttraumatic stress in police and other first responders"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Effects of Hatha yoga and African dance on perceived stress, affect, and salivary cortisol"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Clinical depression versus distress among patients with type 2 diabetes: not just a question of semantics"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Negative outcome in psychotherapy: A critical review"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "The selection and design of control conditions for randomized controlled trials of psychological interventions"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Feasibility, acceptability, and preliminary efficacy of a smartphone intervention for schizophrenia"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "The behavioral intervention technology model: an integrated conceptual and technological framework for eHealth and mHealth interventions"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "Association between stressful life events and exacerbation in multiple sclerosis: a meta-analysis"
+    },
+    {
+      "relation": "authored",
+      "source": "David C. Mohr",
+      "target": "MS quality of life, depression, and fatigue improve after mindfulness training: a randomized trial"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "lWyhkYsAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Stephen Schueller"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "dem9hy0AAAAJ",
+      "source": "David C. Mohr",
+      "target": "Emily Lattie"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "RN8bK3AAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Mary Kwasny"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "ZD-2ddIAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Madhu Reddy"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "qfiqPUkAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Tae Hart"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "N08XHUAAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Pim Cuijpers"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "MiFqJGcAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Konrad Paul Kording"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "uFP5RQcAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Christian Otte"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "blfBubMAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Bonnie Spring"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "FT5pXGMAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Colleen Stiles-Shields, Ph.D."
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "4YIBh8YAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Chris J. Karr"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "9jqURCEAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Sohrab Saeb"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "gct_vUgAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Andrea K. Graham, PhD"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "lnWh2WIAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Kathryn N Tomasino"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "Pr4lzvoAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Stefan Gold"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "QoZjj5cAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Juned Siddique"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "G5Ro_pYAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Daniel Pelletier"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "TunhXH0AAAAJ",
+      "source": "David C. Mohr",
+      "target": "Frank J. Penedo"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "d0wCiWAAAAAJ",
+      "source": "David C. Mohr",
+      "target": "Patricia Arean"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "Y-aaqWcAAAAJ",
+      "source": "David C. Mohr",
+      "target": "William T Riley"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Internet paradox: A social technology that reduces social involvement and psychological well-being?"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Internet paradox revisited"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Psychological research online: report of Board of Scientific Affairs' Advisory Group on the Conduct of Research on the Internet."
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Coordination in software development"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Patterns of contact and communication in scientific research collaboration"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Social capital on Facebook: Differentiating uses and users"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Building successful online communities: Evidence-based social design"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Informal communication in organizations: Form, function, and technology"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Applying common identity and bond theory to design of online communities"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Harnessing the wisdom of crowds in wikipedia: quality through coordination"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "The impact of computer use on children's and adolescents' development"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "The quality of online social relationships"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "The impact of home computer use on children's activities and development"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Building member attachment in online communities: Applying theories of group identity and interpersonal bonds"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Social and emotional messages of smiling: an ethological approach."
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Evaluating video as a technology for informal communication"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Crowdforge: Crowdsourcing complex work"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "The relationship between Facebook use and well-being depends on communication type and tie strength"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Community effort in online groups: Who does the work and why?"
+    },
+    {
+      "relation": "authored",
+      "source": "Robert E. Kraut",
+      "target": "Using social psychology to motivate contributions to online communities"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "8Qu_gAMAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Sara Kiesler"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "2vZ5zRQAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Aniket Kittur"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "m1wGy3gAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Moira Burke"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "QpG20J0AAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Susan Fussell"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "F6LzqwMAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "William Scherlis"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "oCL2s-0AAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Robert S Fish"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "SftrEEMAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Paul Resnick"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "pO-wy6QAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Yuqing Ren"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "DdNAgNwAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Laura Dabbish"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "9NkngDMAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Haiyi Zhu"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "l5NUrPUAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Jonathon Cummings"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "Yd2zX-MAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Brian Butler"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "j9jhYqQAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Diyi Yang"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "9gMgFPQAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Yi-Chia Wang (\u738b\u6021\u5609)"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "ufIlFCIAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Irina Shklovski"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "oLWN9C8AAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "J. Alberto Espinosa"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "iFWaKtMAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "John Riedl"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "T4Yo9gQAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Darren Gergle"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "UwUTPfUAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "John Levine"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "5vWgdloAAAAJ",
+      "source": "Robert E. Kraut",
+      "target": "Elisabeth Joyce"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "Spatial filtering for EEG-based regression problems in brain-computer interface (BCI)"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "An EEG-based fatigue detection and mitigation system"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "Forehead EEG in Support of Future Feasible Personal Healthcare Solutions: Sleep Management, Headache Prevention, and Depression Treatment"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "Mind-wandering tends to occur under low perceptual demands during driving"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "EEG alpha and gamma modulators mediate motion sickness-related spectral responses"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "Imagining Garage Start-Ups: Interactive Effects of Imaginative Capacities on Entrepreneurial Intention"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "An EEG-based Approach for Evaluating Graphic Icons from the Perspective of Semantic Distance"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "Learning in the visual association of novice and expert designers"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "An inflatable and wearable wireless system for making 32-channel electroencephalogram measurements"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "A wireless steady state visually evoked potential-based BCI eating assistive system"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "Stimulating the imaginative capacities of agricultural extension students"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "Measuring Cognitive Conflict in Virtual Reality with Feedback-Related Negativity"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "Extracting patterns of single-trial EEG using an adaptive learning algorithm"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "Attention in Complex Environment of Brain Computer Interface"
+    },
+    {
+      "relation": "authored",
+      "source": "Jung-Tai King",
+      "target": "Effect of a cognitive involving videogame on MI task"
+    },
+    {
+      "relation": "authored",
+      "source": "Dennis Wang",
+      "target": "Mindful garden: supporting reflection on biosignals in a co-located augmented reality mindfulness experience"
+    },
+    {
+      "relation": "authored",
+      "source": "Dennis Wang",
+      "target": "Revisiting piggyback prototyping: Examining benefits and tradeoffs in extending existing social computing systems"
+    },
+    {
+      "relation": "authored",
+      "source": "Dennis Wang",
+      "target": "SnapPI: Understanding everyday use of personal informatics data stickers on ephemeral social media"
+    },
+    {
+      "relation": "authored",
+      "source": "Dennis Wang",
+      "target": "Exploring the complementary features of audio and text notes for video-based learning in mobile settings"
+    },
+    {
+      "relation": "authored",
+      "source": "Dennis Wang",
+      "target": "Exploring Activity-Sharing Response Differences Between Broad-Purpose and Dedicated Online Social Platforms"
+    },
+    {
+      "relation": "authored",
+      "source": "Dennis Wang",
+      "target": "PinchFun: A Fine Motor Training Game for Preschool Children with Developmental Delay"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Exploring effects of chatbot-based social contact on reducing mental illness stigma"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Deciding if and how to use a COVID-19 contact tracing app: influences of social factors on individual use in Japan"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Use of an AI-powered rewriting support software in context with other tools: a study of non-native English speakers"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Unpacking intention and behavior: Explaining contact tracing app adoption and hesitancy in the United States"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Predicting open source contributor turnover from value-related discussions: An analysis of GitHub issues"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Slowing it down: Towards facilitating interpersonal mindfulness in online polarizing conversations over social media"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Many (to platform) to many: Web 2.0 application infrastructures"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Exploring effects of chatbot's interpretation and self-disclosure on mental illness stigma"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Maintaining values: Navigating diverse perspectives in value-charged discussions in open source development"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Impacts of the Strength and Conformity of Social Norms on Well-Being: A Mixed-Method Study Among Hybrid Workers in Japan"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Bridging the open web and apis: Alternative social media alongside the corporate web"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Escaping the Walled Garden? User Perspectives of Control in Data Portability for Social Media"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "The Impact of Social Norms on Hybrid Workers\u2019 Well-Being: A Cross-Cultural Comparison of Japan and the United States"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Multiplying the Medium: Tie Strength, Social Role, and Mobile Media Multiplexity"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "From Interaction to Attitude: Exploring the Impact of Human-AI Cooperation on Mental Illness Stigma"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Independent together: Building and maintaining values in a distributed web infrastructure"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "EaseOut: A Cross-Cultural Study of the Impact of a Conversation Agent on Leaving Video Meetings Early"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Depending on Others in the IndieWeb: Navigating Holistic and Prescriptive Building in a Decentralized Social Network"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Using sonification to explore texting response time in time stamped interactional data"
+    },
+    {
+      "relation": "authored",
+      "source": "Jack Jamieson",
+      "target": "Keitai and Japanese adolescents"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "Cu2qpUoAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Jeffrey Boase"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "2kpYWtEAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Daniel A. Epstein"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "xBfgUNoAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Ge Gao"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "jKhbH7IAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Wataru Akahori"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "XO5CrIsAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Jun Suzuki"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "-bqmkaAAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Tatsuki Kuribayashi"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "38_o3-kAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Kentaro Inui"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "gDwQYRwAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Takumi Ito"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "QjbgoY8AAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Yunan Chen"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "FlMKf0gAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Helen Ai He"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "sGEgYE0AAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Teale W Masrani"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "ds2Z3GEAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Rhonda McEwen"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "Ro7C2w0AAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Tetsuro Kobayashi"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "RhxihiIAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Holly Tianqi Song"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "tkq3V8QAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Hideaki Kuzuoka"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "Hq8XnlgAAAAJ",
+      "source": "Jack Jamieson",
+      "target": "Mitsuaki Akiyama"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "FingerPad: private and subtle interaction using fingertips"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Thermovr: Exploring integrated thermal haptic feedback with head mounted displays"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "CapStones and ZebraWidgets: sensing stacks of building blocks, dials and sliders on capacitive touch screens"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Cyclopsring: Enabling whole-hand and context-aware interactions through a fisheye ring"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Digitspace: Designing thumb-to-fingers touch interfaces for one-handed and eyes-free interactions"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Touching the void: Direct-touch interaction for intangible displays"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Pupop: Pop-up prop on palm for virtual reality"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Thermalbracelet: Exploring thermal haptic feedback around the wrist"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "TUIC: enabling tangible interaction on capacitive multi-touch displays"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Collaborative localization: Enhancing WiFi-based position estimation with neighborhood links in clusters"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Outside-in: Visualizing out-of-sight regions-of-interest in a 360 video using spatial picture-in-picture previews"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "FrontFace: facilitating communication between HMD users and outsiders using front-facing-screen HMDs"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Edgevib: Effective alphanumeric character output using a wrist-worn tactile display"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Facepush: Introducing normal force on face with head-mounted displays"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Palmgesture: Using palms as gesture interfaces for eyes-free input"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "NailDisplay: bringing an always available visual display to fingertips"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "GaussBricks: magnetic building blocks for constructive tangible interactions on portable displays"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "GaussBits: magnetic tangible bits for portable and occlusion-free near-surface interactions"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Tilepop: Tile-type pop-up prop for virtual reality"
+    },
+    {
+      "relation": "authored",
+      "source": "Liwei Chan",
+      "target": "Investigating positive and negative qualities of human-in-the-loop optimization for designing interaction techniques"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "8UC5dY4AAAAJ",
+      "source": "Liwei Chan",
+      "target": "Bing-Yu Chen"
+    },
+    {
+      "relation": "coauthor",
+      "co_id": "gUYquw0AAAAJ",
+      "source": "Liwei Chan",
+      "target": "Yi-Ping Hung"
+    }
+  ]
+}

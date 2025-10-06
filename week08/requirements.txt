@@ -24,3 +24,6 @@ requests==2.32.3
 
 # Optional utilities
 tqdm==4.66.4
+
+# Serpapi (data crawling)
+google-search-results==2.4.2
